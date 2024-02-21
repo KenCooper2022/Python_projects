@@ -34,4 +34,5 @@ class Search():
         self.sep1=0
         self.sep2=0
         self.sep3=0
+
         

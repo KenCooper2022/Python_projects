@@ -30,7 +30,7 @@ class Search():
         self.p1 = 0.2
         self.p2=0.5
         self.p3=0.3
-        sfsdfdf
+        
         self.sep1=0
         self.sep2=0
         self.sep3=0
